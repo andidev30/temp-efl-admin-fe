@@ -1,8 +1,8 @@
 // ----------------------------------------------------------------------
 
 const account = {
-  displayName: 'Jaydon Frankie',
-  email: 'demo@minimals.cc',
+  displayName: 'Sinceu Maurejo',
+  email: 'sinceu@disdik.go.id',
   photoURL: '/static/mock-images/avatars/avatar_default.jpg',
 };
 
